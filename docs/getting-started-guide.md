@@ -93,14 +93,12 @@ When examining areas it can be helpful to get exact information on a given censu
 
 
 
-The data for the occupancy type tool is also a csv file as shown in this example![census-own-rent](/Users/bbessick/gis/housing_toolkit/screencaps/census-own-rent.png)
+The data for the occupancy type tool is also a csv file as shown in this example![census-own-rent](../screencaps/census-own-rent.png)
 
 
 
+The data from HUD/USPS regarding vacancies is a dbf file type but loads the same way via the Select File choice![hud-data](../screencaps/hud-data.png)
 
 
-
-
-The data from HUD/USPS regarding vacancies is a dbf file type but loads the same way via the Select File choice![hud-data](/Users/bbessick/gis/housing_toolkit/screencaps/hud-data.png)
 
 Both the vacancy tool and the occupancy type tool use the exact same proceedure defined above for selecting the Census and State Lines data. They also work the same when it comes to navigating the maps and getting specific info via the Identify tool.
